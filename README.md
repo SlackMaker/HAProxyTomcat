@@ -1,0 +1,2 @@
+# HAProxy realizando balanceamento com servidores Tomcat
+O HAProxy é um aplicativo gratuito de código aberto que trabalha no balanceamento de carga de servidores WEB, ajudando assim a melhorar o desempenho geral e a confiabilidade do ambiente do servidor.
